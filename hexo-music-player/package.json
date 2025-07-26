@@ -1,0 +1,31 @@
+{
+  "name": "hexo-music-player",
+  "version": "1.0.0",
+  "description": "A music player plugin for Hexo blog with Next theme integration",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "plugin",
+    "music",
+    "player",
+    "next-theme"
+  ],
+  "author": "Qingshan Blog",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "peerDependencies": {
+    "hexo": "^5.0.0 || ^6.0.0 || ^7.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/hexo-music-player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/hexo-music-player/issues"
+  },
+  "homepage": "https://github.com/your-username/hexo-music-player#readme"
+}
