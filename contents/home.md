@@ -4,7 +4,6 @@ I'm currently pursuing a Master's degree in Electronic Information at the Depart
 
 #### Email  
 <code>castlepeak@buaa.edu.cn</code>  
-<code>1851280508@qq.com</code>
 
 #### Education  
 **Northeast Normal University**, Bachelor of Robot Engineering (2021 – 2025)  
