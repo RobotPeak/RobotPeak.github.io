@@ -1,20 +1,15 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Electronic Information at the Department of Hangzhou International Innovation Institute, Beihang University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>castlepeak@buaa.edu.cn</code>  
+<code>1851280508@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Northeast Normal University**, Bachelor of Robot Engineering (2021 – 2025)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Beihang University**, Master of Electronic Information (2025 – 2028)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+3D/4D Reconstruction， World Model， UAV， etc.
